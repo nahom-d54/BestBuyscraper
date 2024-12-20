@@ -1,6 +1,7 @@
 # BestBuy Scraper
 
-This project contains a Python script for web scraping.
+This project contains a Python script for web scraping best buy products.
+see [bestbuy](https://www.bestbuy.com/) For more info
 
 ## Requirements
 
